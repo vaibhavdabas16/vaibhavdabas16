@@ -12,4 +12,4 @@ I'm a final-year CS & AI student at Plaksha University. I build LLM agent system
 
 ## 🤝 Collaboration
 
-Looking for an AI research internship from January 2027. Contact at vaibhav16dabas@gmail.com or [LinkedIn](https://www.linkedin.com/in/vaibhav-dabas-5a5572275/).
+Want to know more? Contact at vaibhav16dabas@gmail.com or [LinkedIn](https://www.linkedin.com/in/vaibhav-dabas-5a5572275/).
