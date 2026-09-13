@@ -9,18 +9,20 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&multiline=true&width=820&height=100&lines=%F0%9F%A4%96+Building+multi-step+LLM+agents+and+shipping+them;%F0%9F%94%A7+Contributor+%40+TIGER-AI-Lab%2FClawBench+%C2%B7+firecrawl%2Fanydoc;%F0%9F%8E%93+CS+and+AI+%40+Plaksha+University+%C2%B7+Class+of+2027;%F0%9F%94%8E+Open+to+AI+research+internships+from+Jan+2027" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&multiline=true&width=820&height=100&lines=%F0%9F%92%BC+Technology+Developer+Intern+%40+Barclays+%E2%80%94+Summer+2026;%F0%9F%8F%86+%2415K+Emergent+Ventures+Grantee+%40+Mercatus+Center;%F0%9F%94%A7+Contributor+%40+TIGER-AI-Lab%2FClawBench+%C2%B7+firecrawl%2Fanydoc;%F0%9F%8E%93+CS+and+AI+%40+Plaksha+University+%C2%B7+Class+of+2027" />
 
 </div>
 
 ### 👋 About me
 
-I'm Vaibhav, a final-year Computer Science and AI student at Plaksha University. I build LLM systems that have to hold up outside a notebook: agents that plan and call tools, retrieval over messy documents, and evaluation that catches the model being wrong before a user does. I'd rather a system fail loudly than quietly return something wrong.
+I'm Vaibhav, a final-year Computer Science and AI student at Plaksha University. I build LLM systems that have to hold up outside a notebook: agents that plan and call tools, retrieval over messy documents, and evaluation that catches the model being wrong before a user does. I'd rather a system fail loudly than quietly return something wrong. This summer I was a **Technology Developer Intern at Barclays**, shipping to a platform serving around 5 million clients.
 
 - 🎓 B.Tech Computer Science & AI @ **Plaksha University**, graduating 2027
-- 🧠 Currently shipping: agentic pipelines with deterministic policy gates, and evaluation tooling for browser agents
+- 💼 Technology Developer Intern @ **Barclays, Pune** (Jun to Jul 2026): feature-toggle framework and .NET API in production, adopted platform wide
+- 🏆 **$15,000 Emergent Ventures grant** from the Mercatus Center (Jul 2025) for project ideation and development
 - 🔧 Six merged PRs into **TIGER-AI-Lab/ClawBench** (Waterloo), plus contributions to **firecrawl/anydoc**
-- 🏆 Ranked 14 of 143+ teams in the Solafune tree canopy segmentation challenge
+- 🥇 Rank 14 of 143+ teams, Solafune tree canopy segmentation · 3rd, Entrepreneurial Challenge Cup 2026 · 2nd of 100+, Plaksha hackathon
+- 🧠 Currently shipping: agentic pipelines with deterministic policy gates, and evaluation tooling for browser agents
 - 🔎 Looking for an AI research internship: remote part-time from Jan 2027, full-time May to Jul 2027
 - 💬 Ask me about LLM agents, RAG, structured outputs, human-in-the-loop systems, or computer vision
 - 📫 vaibhav16dabas@gmail.com
@@ -62,7 +64,19 @@ I'm Vaibhav, a final-year Computer Science and AI student at Plaksha University.
 
 ---
 
-### 🧩 Open source
+### 🧩 Experience and achievements
+
+| When | Role | Highlight |
+|---|---|---|
+| Jun – Jul 2026 | **Technology Developer Intern, Barclays (Pune)** | Built a synthetic data generation pipeline (React + Python) that removed the production-data dependency from application testing. Shipped an Angular feature-toggle framework and a .NET API to production on a platform serving ~5M clients, adopted platform wide. Found and fixed a route guard vulnerability on a live production app |
+| Jul 2025 | **Emergent Ventures Grantee, Mercatus Center** | $15,000 grant for project ideation and development |
+| Dec 2025 | **Rank 14 of 143+, Solafune Tree Canopy Challenge** | 0.42 weighted mAP on instance segmentation from satellite imagery, about 0.02 off the top ten |
+| 2026 | **3rd place, Entrepreneurial Challenge Cup** | Plaksha University |
+| | **2nd place, Plaksha University hackathon** | Out of 100+ participants |
+
+---
+
+### 🔧 Open source
 
 | Repo | What I've done |
 |---|---|
@@ -77,7 +91,6 @@ I'm Vaibhav, a final-year Computer Science and AI student at Plaksha University.
 |---|---|
 | <a href="https://github.com/vaibhavdabas16/Project-CLARUS" target="_blank" rel="noopener noreferrer">Project CLARUS</a> | Multi-agent RAG for financial Q&A and report generation: LLM-Compiler-style supervisor, adaptive retrieval with table understanding, analyst agent group, math/code executor, human-in-the-loop guardrails |
 | AURA (private) | Multi-agent RAG over financial filings. 42% on FinanceBench (23 points over baseline), 56% with human review targeted at confidently-wrong answers, 92% on multi-hop with agents-as-tools |
-| <a href="https://github.com/vaibhavdabas16/Automated-Marksheet-Grading-System" target="_blank" rel="noopener noreferrer">Automated Marksheet Grading</a> | Reads handwritten exam sheets, grades against rubrics, sandboxed code execution under 100ms, Google Classroom sync behind a TA approval gate. Used for 120+ student batches |
 | <a href="https://github.com/vaibhavdabas16/TreeCanopySegmentor" target="_blank" rel="noopener noreferrer">TreeCanopySegmentor</a> | Tree canopy instance segmentation, Solafune challenge. Rank 14 of 143+ at 0.42 weighted mAP. Benchmarked YOLOv8 to v12, Mask R-CNN, Mask2Former, SAM2, RF-DETR on ~150 images |
 | <a href="https://github.com/vaibhavdabas16/Drowsiness-Detection-with-Occlusion" target="_blank" rel="noopener noreferrer">Drowsiness Detection with Occlusion</a> | Lightweight drowsiness detector built for the occlusion cases that clean-benchmark models ignore |
 | <a href="https://tweet-ai-vaibhav.vercel.app/" target="_blank" rel="noopener noreferrer">Tweet-AI</a> | Tweet refinement app on Next.js, Prisma, PostgreSQL, Gemini. 50+ users in month one, 45% 10-day retention |
