@@ -36,10 +36,18 @@ I fix bugs and build features in tooling for AI agents. Pull requests, counted l
 | [fosrl/pangolin](https://github.com/fosrl/pangolin/pulls?q=is%3Apr+author%3Avaibhavdabas16) | Self-hosted secure-access and tunnelling platform | <img alt="merged PRs in fosrl/pangolin" src="https://img.shields.io/github/issues-search/fosrl/pangolin?query=author%3Avaibhavdabas16%20is%3Apr%20is%3Amerged&label=merged&color=2ea44f"/> | <img alt="open PRs in fosrl/pangolin" src="https://img.shields.io/github/issues-search/fosrl/pangolin?query=author%3Avaibhavdabas16%20is%3Apr%20is%3Aopen&label=open&color=blue"/> |
 | [firecrawl/anydoc](https://github.com/firecrawl/anydoc/pulls?q=is%3Apr+author%3Avaibhavdabas16) | Document-to-text conversion | <img alt="merged PRs in firecrawl/anydoc" src="https://img.shields.io/github/issues-search/firecrawl/anydoc?query=author%3Avaibhavdabas16%20is%3Apr%20is%3Amerged&label=merged&color=2ea44f"/> | <img alt="open PRs in firecrawl/anydoc" src="https://img.shields.io/github/issues-search/firecrawl/anydoc?query=author%3Avaibhavdabas16%20is%3Apr%20is%3Aopen&label=open&color=blue"/> |
 
+## Achievements
+
+- **Top 50 of 32,000+**, Amazon ML Challenge '26
+- **Emergent Ventures grant**, Mercatus Center: $15,000 for project ideation and development (Jul 2025)
+- **#14 of 143+ teams**, Solafune Tree Canopy Instance Segmentation Challenge, 0.42 weighted mAP (Dec 2025)
+- **3rd place**, Entrepreneurial Challenge Cup, Plaksha University (2026)
+- **2nd of 100+**, Plaksha University hackathon
+- **433 LeetCode problems** solved, including 280 medium and 53 hard ([profile](https://leetcode.com/u/Vaibhavvvv_16))
+
 ## Experience
 
-- **Technology Developer Intern, Barclays** (Pune, Jun to Jul 2026). Shipped a feature-toggle framework and a .NET API to a platform serving ~5M clients.
-- **Emergent Ventures grant** from the Mercatus Center, $15,000 (Jul 2025).
+- **Technology Developer Intern, Barclays** (Pune, Jun to Jul 2026). Shipped a feature-toggle framework and a .NET API to a platform serving ~5M clients, built a synthetic test-data pipeline to remove the dependency on production data, and fixed a route-guard vulnerability in a live production app.
 
 ## Tools I reach for
 
