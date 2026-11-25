@@ -39,10 +39,10 @@ I fix bugs and build features in open-source infrastructure, mostly tooling for 
 
 Some merged work:
 
-- [lance#11379](https://github.com/lance-format/lance/pull/11379). Lance: a commit that has already started is no longer cancelled when `retry_timeout` expires
-- [ClawBench#316](https://github.com/TIGER-AI-Lab/ClawBench/pull/316). ClawBench: a host-side deadline on container waits, so one stuck run can't stall an overnight batch
-- [ClawBench#314](https://github.com/TIGER-AI-Lab/ClawBench/pull/314). ClawBench: a bad `--judge` model no longer throws away a completed run
-- [ClawBench#347](https://github.com/TIGER-AI-Lab/ClawBench/pull/347). ClawBench: each run records the code, corpus and agent revisions it used, so results can be reproduced
+- [lance#11379](https://github.com/lance-format/lance/pull/11379): a commit that has already started is no longer cancelled when `retry_timeout` expires
+- [ClawBench#316](https://github.com/TIGER-AI-Lab/ClawBench/pull/316): a host-side deadline on container waits, so one stuck run can't stall an overnight batch
+- [ClawBench#314](https://github.com/TIGER-AI-Lab/ClawBench/pull/314): a bad `--judge` model no longer throws away a completed run
+- [ClawBench#347](https://github.com/TIGER-AI-Lab/ClawBench/pull/347): each run records the code, corpus and agent revisions it used, so results can be reproduced
 
 ## Achievements
 
