@@ -43,7 +43,6 @@ I fix bugs and build features in tooling for AI agents. Pull requests, counted l
 - **#14 of 143+ teams**, Solafune Tree Canopy Instance Segmentation Challenge, 0.42 weighted mAP (Dec 2025)
 - **3rd place**, Entrepreneurial Challenge Cup, Plaksha University (2026)
 - **2nd of 100+**, Plaksha University hackathon
-- **433 LeetCode problems** solved, including 280 medium and 53 hard ([profile](https://leetcode.com/u/Vaibhavvvv_16))
 
 ## Experience
 
