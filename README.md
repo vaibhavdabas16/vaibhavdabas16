@@ -39,6 +39,7 @@ I fix bugs and build features in tooling for AI agents. Pull requests, counted l
 ## Achievements
 
 - **Top 50 of 32,000+**, Amazon ML Challenge '26
+- **National Semi-Finalist**, Flipkart GRiD 8.0 (Sep 2026)
 - **Emergent Ventures grant**, Mercatus Center: $15,000 for project ideation and development (Jul 2025)
 - **#14 of 143+ teams**, Solafune Tree Canopy Instance Segmentation Challenge, 0.42 weighted mAP (Dec 2025)
 - **3rd place**, Entrepreneurial Challenge Cup, Plaksha University (2026)
